@@ -1,0 +1,343 @@
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    Width: 100%;
+    Height: 1360px
+}
+
+.container {
+    Width: 375px;
+    Height: 1360px;
+    background: #FAFAFA;
+    padding: 35px;
+}
+
+
+header {
+    position: relative;
+}
+
+.delivery {
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 275;
+    font-size: 24px;
+    line-height: 36px;
+    letter-spacing: 0.166667px;
+    color: #4D4F62;
+    position: absolute;
+    top: -145%;
+    left: 6%;
+}
+
+.powered {
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 24px;
+    line-height: 36px;
+    text-align: center;
+    letter-spacing: 0.166667px;
+    color: #4D4F62;
+    position: absolute;
+    top: -84%;
+    left: 7%;
+}
+
+.tools {
+
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 15px;
+    line-height: 25px;
+    text-align: center;
+    letter-spacing: 0.104167px;
+    color: #4D4F62;
+    mix-blend-mode: normal;
+    opacity: 0.5;
+    margin: 171px 30px 0px 30px;
+}
+
+.components {
+    margin: 69px 0px 0px 34px;
+}
+
+.search>hr {
+    height: 4px;
+    margin: 0px;
+    background: #44D3D2;
+    box-shadow: 0px 15px 30px -11px rgba(131, 166, 210, 0.5);
+}
+
+.search {
+    Width: 311px;
+    Height: 222px;
+    position: relative;
+    background: #FFFFFF;
+    box-shadow: 0px 15px 30px -11px rgba(131, 166, 210, 0.5);
+    border-radius: 8px;
+    overflow: hidden;
+
+}
+
+.supervisor {
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 20px;
+    line-height: 30px;
+    position: absolute;
+    color: #4D4F62;
+    left: 4%;
+    top: 5%;
+}
+
+.monitors {
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 13px;
+    line-height: 23px;
+    letter-spacing: 0.0902778px;
+    color: #4D4F62;
+    mix-blend-mode: normal;
+    opacity: 0.5;
+    position: absolute;
+    left: 9%;
+    top: 28%;
+}
+
+.eye {
+    position: absolute;
+    top: 59%;
+    left: 74%;
+    width: 57px;
+}
+
+.team {
+    Width: 311px;
+    Height: 222px;
+    position: relative;
+    background: #FFFFFF;
+    box-shadow: 0px 15px 30px -11px rgba(131, 166, 210, 0.5);
+    border-radius: 8px;
+    overflow: hidden;
+    margin: 30px 0px 0px 0px;
+
+}
+
+.team>hr {
+    margin: 0px;
+    height: 4px;
+    background: #EA5454;
+    box-shadow: 0px 15px 30px -11px rgba(131, 166, 210, 0.5);
+
+}
+
+.builder {
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 20px;
+    line-height: 30px;
+    position: absolute;
+    color: #4D4F62;
+    left: 4%;
+    top: 5%;
+}
+
+.scans {
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 13px;
+    line-height: 23px;
+    letter-spacing: 0.0902778px;
+    color: #4D4F62;
+    mix-blend-mode: normal;
+    opacity: 0.5;
+    position: absolute;
+    left: 9%;
+    top: 28%;
+}
+
+.house {
+    position: absolute;
+    top: 59%;
+    left: 74%;
+    width: 57px;
+}
+
+.karma {
+    Width: 311px;
+    Height: 222px;
+    position: relative;
+    background: #FFFFFF;
+    box-shadow: 0px 15px 30px -11px rgba(131, 166, 210, 0.5);
+    border-radius: 8px;
+    overflow: hidden;
+    margin: 30px 0px 0px 0px;
+}
+
+.karma>hr {
+    margin: 0px;
+    height: 4px;
+    background: #FCAE4A;
+    box-shadow: 0px 15px 30px -11px rgba(131, 166, 210, 0.5);
+}
+
+.karma2 {
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 20px;
+    line-height: 30px;
+    position: absolute;
+    color: #4D4F62;
+    left: 4%;
+    top: 5%;
+}
+
+.regularly {
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 13px;
+    line-height: 23px;
+    letter-spacing: 0.0902778px;
+    color: #4D4F62;
+    mix-blend-mode: normal;
+    opacity: 0.5;
+    position: absolute;
+    left: 9%;
+    top: 28%;
+    padding: 0px 11px 0px 0px;
+}
+
+
+.karma3 {
+    position: absolute;
+    top: 59%;
+    left: 74%;
+    width: 57px;
+}
+
+.calc {
+    Width: 311px;
+    Height: 222px;
+    position: relative;
+    background: #FFFFFF;
+    box-shadow: 0px 15px 30px -11px rgba(131, 166, 210, 0.5);
+    border-radius: 8px;
+    overflow: hidden;
+    margin: 30px 0px 0px 0px;
+}
+
+.calc>hr {
+    margin: 0px;
+    height: 4px;
+    background: #549EF2;
+    box-shadow: 0px 15px 30px -11px rgba(131, 166, 210, 0.5);
+}
+
+.calculator {
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 20px;
+    line-height: 30px;
+    position: absolute;
+    color: #4D4F62;
+    left: 4%;
+    top: 5%;
+}
+
+.data {
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 13px;
+    line-height: 23px;
+    letter-spacing: 0.0902778px;
+    color: #4D4F62;
+    mix-blend-mode: normal;
+    opacity: 0.5;
+    position: absolute;
+    left: 9%;
+    top: 28%;
+    padding: 0px 11px 0px 0px;
+}
+
+.calc2 {
+    position: absolute;
+    top: 59%;
+    left: 74%;
+    width: 57px;
+}
+
+
+@media screen and (min-width:600px) {
+
+    body {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        Width: 100vw;
+        Height: 100vh;
+    }
+
+    header {
+        position: relative;
+        width: 540px;
+        height: 180px;
+        margin: 0 auto;
+        top: 21%;
+    }
+
+    .container {
+        Width: 1400px;
+        Height: 775px;
+
+    }
+
+    .delivery {
+        transform: translate(27%, 163%);
+    }
+
+    .powered {
+        transform: translate(27%, 64%);
+    }
+
+    .tools {
+        margin: 0px;
+        position: absolute;
+        top: -21%;
+    }
+
+    .components {
+        position: relative;
+        margin: 215px 0px 0px 0px;
+    }
+
+    .search {
+        position: absolute;
+        top: 35%;
+        left: 14%;
+    }
+
+    .team {
+        margin: -154px 0px 0px 546px;
+    }
+
+    .karma {
+        margin: 35px auto;
+    }
+
+    .calc {
+        margin: -370px 0px 0px 893px;
+    }
+
+
+}
